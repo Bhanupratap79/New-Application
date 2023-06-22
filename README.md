@@ -1,3 +1,3 @@
-# New-Application
+# News-Application
 Html Css And Javascript
  You can change the api go to the newsapiorg... and generate api for just project purpose you cant upload it anywhere because its expires............. use the code and change api key and enjoy...........
